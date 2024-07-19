@@ -1,7 +1,7 @@
 let Regiao = "ap";					//eu na ap(jp) kr
-let Username = "nanasia";	//名前
-let Tagline = "774A";				//タグライン
-let Apikey = "HDEV-XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"	//API_KEY
+let Username = "YouTube KINIYT07";	//名前
+let Tagline = "CHZZK";				//タグライン
+let Apikey = "HDEV-516ab969-1c4c-4202-a8ce-5d19a6718580"	//API_KEY
 //上4行を自分のアカウントに合わせて変更する
 //アカウント情報を変更したらこちらも変更してください
 
